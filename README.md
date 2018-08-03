@@ -11,15 +11,15 @@ The example given below assumes Ubuntu 18.04 and CUDA support. For everything el
 3. Preprocess the sample data
     ```
     python scripts/preprocess.py \
-    --input_txt data/tiny-shakespeare.txt \
-    --output_h5 data/tiny-shakespeare.h5 \
-    --output_json data/tiny-shakespeare.json
+    --input_txt data/cocktails.txt \
+    --output_h5 data/cocktails.h5 \
+    --output_json data/cocktails.json
     ```
 4. Train 
     ```
     th train.lua \
-    -input_h5 data/tiny-shakespeare.h5 \
-    -input_json data/tiny-shakespeare.json
+    -input_h5 data/cocktails.h5 \
+    -input_json data/cocktails.json
     ```
 5. Sample
     * `th sample.lua -checkpoint cv/checkpoint_10000.t7 -length 2000`
