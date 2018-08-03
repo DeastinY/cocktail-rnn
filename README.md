@@ -29,6 +29,46 @@ The example given below assumes Ubuntu 18.04 and CUDA support. For everything el
 ## Examples
 
 Check the examples.txt file for more cocktails!
+```
+Angeltula Mint
+1 shot  Water
+2 cups  Milk
+3 oz Chocolate liqueur
+3/4 oz chocolate CoWly High
+1 oz  Sweet Vermouth
+1 cup Carapai
+1/4 cup the Rum
+125 oz L  Lime juice
+1/2 tsp  Light cream
+1 tsp  Ice
+
+Shake all ingredients with ice, strain into a chilled cocktail glass.
+
+Serve in Cocktail glass
+```
+
+```
+Bora Hitron
+3/4 oz  Absolut Vodka
+1 oz frozen  Orange juice
+1  Old-fashioned
+
+Pour in old-fashioned glass, add day kee de Coffeod, stir again to fill up with beer.
+
+Serve in Highball glass
+```
+
+```
+Brandy Tea
+1 pint  Cocoa powder
+1 shle de Carbonated water
+
+Burut it inatirich schnalm.
+
+Whip peer.
+
+Serve in Coffee mug
+```
 
 ## Contribution
 
