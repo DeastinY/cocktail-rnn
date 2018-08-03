@@ -8,6 +8,7 @@ The example given below assumes Ubuntu 18.04 and CUDA support. For everything el
 1. Install [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 2. Start the docker container
     ```nvidia-docker run --rm -ti https://hub.docker.com/r/xoryouyou/torch-rnn/ bash```
+3. Copy the training data to data/cocktails.txt
 3. Preprocess the sample data
     ```
     python scripts/preprocess.py \
@@ -22,7 +23,7 @@ The example given below assumes Ubuntu 18.04 and CUDA support. For everything el
     -input_json data/cocktails.json
     ```
 5. Sample
-    * `th sample.lua -checkpoint cv/checkpoint_10000.t7 -length 2000`
+    * `th sample.lua -checkpoint cv/checkpoint_9000.t7 -length 2000`
 
 
 ## Examples
