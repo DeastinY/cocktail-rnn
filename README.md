@@ -69,6 +69,16 @@ Whip peer.
 
 Serve in Coffee mug
 ```
+```
+Mother's Milk
+1 oz  Baileys irish cream
+15 ml Five Sugar
+5- minnea
+
+Oif your barter difst every toblos, this bitters, shake into a cocktail glass, and serve.
+
+Serve in Cocktail glass
+```
 
 ## Contribution
 
